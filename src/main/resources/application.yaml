@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: myapp
+  etcd:
+    uri: etcd://127.0.0.1:2380
+  cloud:
+    discovery:
+      etcd:
+        port: 989
+        prefix: test
