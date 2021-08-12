@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=io.github.solayw.spring.etcd.EtcdAutoConfiguration,io.github.solayw.spring.etcd.EtcdDiscoveryClient,io.github.solayw.spring.etcd.EtcdRegisterAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=io.github.solayw.spring.etcd.EtcdAutoConfiguration,io.github.solayw.spring.etcd.EtcdDiscoveryAutoConfiguration
